@@ -1,0 +1,15 @@
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.hero {
+  padding: 80px;
+}
+
+.btn {
+  border-radius: 30px;
+}
+
+section {
+  margin-top: 40px;
+}
